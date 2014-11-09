@@ -34,6 +34,7 @@ NSMutableArray* magicStrings;
 
 -(void)initializeStrings{
     magicStrings = [[NSMutableArray alloc] initWithCapacity:20];
+    magicStrings[1]=@"fix bug1";
     magicStrings[2]=@"Without a doubt";
     magicStrings[3]=@"Yes, definitely";
     magicStrings[4]=@"You may rely on it";
@@ -54,6 +55,10 @@ NSMutableArray* magicStrings;
     magicStrings[19]=@"Very doubtful";
     magicStrings[20]=@"not bad";
     magicStrings[21]=@"not good";
+    magicStrings[22]=@"feature2";
+    magicStrings[23]=@"feature3";
+    magicStrings[24]=@"release-v1.0";
+    
 }
 
 @end

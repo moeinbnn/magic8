@@ -56,6 +56,7 @@ NSMutableArray* magicStrings;
     magicStrings[20]=@"not bad";
     magicStrings[21]=@"not good";
     magicStrings[22]=@"feature2";
+    magicStrings[23]=@"feature3";
 }
 
 @end

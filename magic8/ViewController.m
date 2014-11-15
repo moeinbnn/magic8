@@ -60,18 +60,11 @@ NSMutableArray* magicStrings;
     magicStrings[24]=@"release-v1.0";
     magicStrings[25]=@"Bug2";
     magicStrings[26]=@"Bug3";
-<<<<<<< HEAD
     magicStrings[27]=@"Bug4";
     magicStrings[28]=@"MainMenu";
     magicStrings[29]=@"MainMenu-start";
     magicStrings[30]=@"MainMenu-start-bug";
     magicStrings[31]=@"searchfield";
-=======
-    magicStrings[26]=@"Bug4";
-    magicStrings[26]=@"MainMenu";
-    magicStrings[26]=@"MainMenu-start/collection";
->>>>>>> collection-MainMenu
-    
     
     
     

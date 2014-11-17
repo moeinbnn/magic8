@@ -61,7 +61,7 @@ NSMutableArray* magicStrings;
     magicStrings[25]=@"Bug2";
     magicStrings[26]=@"Bug3";
     magicStrings[27]=@"Bug4";
-    magicStrings[28]=@"MainMenu";
+    magicStrings[28]=@"MainMenu-bug";
     magicStrings[29]=@"MainMenu-start";
     magicStrings[30]=@"MainMenu-start-bug";
     magicStrings[31]=@"searchfield";

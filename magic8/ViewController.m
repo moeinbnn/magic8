@@ -58,7 +58,17 @@ NSMutableArray* magicStrings;
     magicStrings[22]=@"feature2";
     magicStrings[23]=@"feature3";
     magicStrings[24]=@"release-v1.0";
-    magicStrings[25]=@"Bug2 audiobook";
+    magicStrings[25]=@"Bug2";
+    magicStrings[26]=@"Bug3";
+    magicStrings[27]=@"Bug4";
+    magicStrings[28]=@"MainMenu-bug";
+    magicStrings[29]=@"MainMenu-start";
+    magicStrings[30]=@"MainMenu-start-bug";
+    magicStrings[31]=@"searchfield-DeviceManagment";
+    magicStrings[32]=@"setting";
+    
+    
+    
     
 }
 
